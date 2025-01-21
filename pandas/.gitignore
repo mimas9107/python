@@ -1,0 +1,6 @@
+.idea/
+*.pdf
+data/vehicles.csv
+.ipynb_checkpoints/
+__pycache__/
+data/preanes_2014-20_NOimputed_full_for_cpx_20240317.csv

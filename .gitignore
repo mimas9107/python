@@ -7,3 +7,5 @@ __pycache__
 **/build/
 **/yolo/
 **/*.zip
+anaconda_projects/
+**/anaconda_projects/
